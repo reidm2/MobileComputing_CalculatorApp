@@ -1,0 +1,26 @@
+
+Ksquid:S1659"(Declare "equalsUsed" on a separate line.(¤û—„ûÿÿÿÿ8Þ¹Ñýå,
+Gsquid:S1659"$Declare "second" on a separate line.(í‘§Ñýÿÿÿÿ8Þ¹Ñýå,
+Lsquid:S1125n")Remove the literal "false" boolean value.(¡›©­úÿÿÿÿ8Þ¹Ñýå,
+Lsquid:S1659")Declare "negativeNum" on a separate line.(¤û—„ûÿÿÿÿ8Þ¹Ñýå,
+Lsquid:S1125ª"(Remove the literal "true" boolean value.(³™ñ™ùÿÿÿÿ8Þ¹Ñýå,
+lsquid:MaximumInheritanceDepth"<This class has 7 parents which is greater than 5 authorized.(²Ú±Ž8Þ¹Ñýå,
+Hsquid:S1125¯")Remove the literal "false" boolean value.(óŒŸÂ8Þ¹Ñýå,
+Ksquid:S1125L"(Remove the literal "true" boolean value.(“×™Ÿüÿÿÿÿ8Þ¹Ñýå,
+Lsquid:S1659")Declare "secondValue" on a separate line.(¤û—„ûÿÿÿÿ8Þ¹Ñýå,
+psquid:S3776c"RRefactor this method to reduce its Cognitive Complexity from 41 to the 15 allowed.(´‚‡Ó8Þ¹Ñýå,
+Fsquid:S1659"#Declare "first" on a separate line.(í‘§Ñýÿÿÿÿ8Þ¹Ñýå,
+Ksquid:S1659"(Declare "tempResult" on a separate line.(í‘§Ñýÿÿÿÿ8Þ¹Ñýå,
+Gsquid:S1125w")Remove the literal "false" boolean value.(¹Òþ«8Þ¹Ñýå,
+Esquid:S1125e"(Remove the literal "true" boolean value.(¨Òà8Þ¹Ñýå,
+qsquid:S3776µ"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(µ¢Íç8Þ¹Ñýå,
+Msquid:S1125Ë")Remove the literal "false" boolean value.(º³ë³ùÿÿÿÿ8Þ¹Ñýå,
+Fsquid:S1125E"(Remove the literal "true" boolean value.(à™Ž—8Þ¹Ñýå,
+Rsquid:S1659"/Declare "lastOperationUsed" on a separate line.(í‘§Ñýÿÿÿÿ8Þ¹Ñýå,
+Msquid:S1659"*Declare "memOperation" on a separate line.(í‘§Ñýÿÿÿÿ8Þ¹Ñýå,
+Lsquid:S1659")Declare "decimalUsed" on a separate line.(¤û—„ûÿÿÿÿ8Þ¹Ñýå,
+Hsquid:S1125»")Remove the literal "false" boolean value.(´ÐÑŠ8Þ¹Ñýå,
+~squid:S1450"[Remove the "memOperation" field and declare it as a local variable in the relevant methods.(í‘§Ñýÿÿÿÿ8Þ¹Ñýå,
+Gsquid:S1659")Declare "memoryValue" on a separate line.(¦™¹8Þ¹Ñýå,
+Ksquid:S1659"(Declare "firstValue" on a separate line.(¤û—„ûÿÿÿÿ8Þ¹Ñýå,
+Msquid:S1659"*Declare "operatorUsed" on a separate line.(¤û—„ûÿÿÿÿ8Þ¹Ñýå,
